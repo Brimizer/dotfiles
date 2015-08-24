@@ -1,0 +1,8 @@
+alias ...='cd ../..'
+alias s='sudo'
+alias classes='cd ~/Documents/School'
+alias campus='ssh -X dbrim@ieng6.ucsd.edu'
+
+# Use hub in place of git
+alias git=hub
+alias p=python
